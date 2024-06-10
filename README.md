@@ -1,0 +1,1 @@
+# Penerapan-Algoritma-Greedy-dan-Brute-Brute-force-dalam-permainan-Chekers
